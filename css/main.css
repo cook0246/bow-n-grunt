@@ -1,0 +1,30 @@
+header a{
+    margin: 0 1rem 0 1rem;
+    background: #ddd;
+    padding: 0.5rem;
+    color: darkcyan;
+}
+
+header, footer a{
+    margin: 1rem;
+}
+
+header a, footer a{
+    text-align: center;
+    
+}
+
+main{
+    padding: 2rem;
+}
+
+.exampleBlock{
+    color: #fff;
+    background: #777;
+    padding: 1rem;
+    text-align: center;
+}
+
+#font-target{
+    font-family: 'fontawesome';   
+}

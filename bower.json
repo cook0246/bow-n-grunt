@@ -1,0 +1,20 @@
+{
+  "name": "bow-n-grunt",
+  "version": "1.0.0",
+  "authors": [
+    "cook0246"
+  ],
+  "description": "Practice with the use of Bower and Grunt",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha",
+    "font-awesome": "FortAwesome/Font-Awesome#~4.5.0"
+  }
+}
